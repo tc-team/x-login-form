@@ -1,0 +1,41 @@
+{
+  "name": "x-login-form",
+  "authors": [
+    "TC"
+  ],
+  "description": "Element providing solution for Log In",
+  "keywords": [
+    "web-component",
+    "web-components",
+    "polymer",
+    "menu",
+    "session",
+    "login"
+  ],
+  "main": "x-login-form.html",
+  "license": "MIT",
+  "homepage": "https://github.com/tc-team/x-login-form/",
+  "ignore": [
+    "/.*",
+    "/tests/"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.4",
+    "core-ajax": "Polymer/core-ajax#~0.5.5",
+    "paper-input": "Polymer/paper-input#~0.5.5",
+    "core-icon": "Polymer/core-icon#~0.5.5"
+  },
+  "devDependencies": {
+    "web-component-tester": "*"
+  },
+  "_release": "d5ad54ddab",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "d5ad54ddab48fe3e18e2cb3ea4f9fdd536b53f73"
+  },
+  "_source": "git://github.com/tc-team/x-login-form.git",
+  "_target": "master",
+  "_originalSource": "tc-team/x-login-form",
+  "_direct": true
+}

@@ -1,0 +1,7 @@
+{
+  "name": "x-login-form#gh-pages",
+  "private": true,
+  "dependencies": {
+    "x-login-form": "tc-team/x-login-form#master"
+  }
+}
